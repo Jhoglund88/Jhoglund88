@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Julius 👋
 
-<!--
-**Jhoglund88/Jhoglund88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Developer student based in Stockholm, Sweden, currently building my skills in Python, data, software development and AI.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [WeatherAnalyze](https://github.com/Jhoglund88/WeatherAnalyze)
+A Python application that retrieves weather data from an API, cleans and analyzes the data, and visualizes a seven-day forecast.
+
+**Technologies:** Python · APIs · OOP · Data analysis · Matplotlib · JSON
+
+## Background
+
+Before moving into software and AI, I spent 18+ years as a professional online poker player, working extensively with probability, statistical analysis, risk management and data-driven decision-making.
+
+## Connect
+
+🌐 Portfolio: https://julius-hoglund.lovable.app/
+
+💼 LinkedIn: https://www.linkedin.com/in/julius-h%C3%B6glund-820650333/
